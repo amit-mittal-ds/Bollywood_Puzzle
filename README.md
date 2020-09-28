@@ -15,6 +15,6 @@ Open a jupyter notebook on your system and run following three commands and enjo
 
 from bollywood_puzzle1 import Game
 
-#This is function which you need to run to play the game
+#This is function you need to run to play this game
 Game()
 ```
